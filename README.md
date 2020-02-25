@@ -22,8 +22,11 @@ certainement:
 structure en acier (on à (ancien projet cnc ou autre imprimante 3D)) 8mm de diamètres pour les barres non fillettée
 Atache pour la structure: à imprimer
 2 Courroies (possède: 100 cm et 80 cm)
-roullemnet à bille 8mm interne  15x25mm Linear
-
+roullemnet à bille 8mm interne  15x25mm Linear à acheter (amazon prime) 15€ max pour une dizaine de roulement à bille linéaire
+https://www.amazon.fr/s?k=roulement+a+bille+lineaire+LM8UU&s=price-asc-rank&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1582649879&ref=sr_st_price-asc-rank
+https://www.amazon.fr/Roulement-billes-lineaire-interieur-caoutchouc/dp/B01FSDLP02/ref=sr_1_11?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=roulement+a+bille+lineaire+LM8UU&qid=1582649889&sr=8-11
+https://www.cdiscount.com/search/10/roulement+a+bille+lineaire+lm8uu.html#_his_
+ATTENTION au temps que ça pourrait prendre
 
 roullement a bille par marcel pour amazon prime
 chercher poêle pour mettre sur le réchaud
@@ -31,9 +34,12 @@ chercher poêle pour mettre sur le réchaud
 LIENS:
 https://urlab.be/projects/115
 https://www.instructables.com/workshop/cnc/projects/
+https://github.com/uerkal/PancakePrinter
+https://www.thingiverse.com/thing:989910
+
 https://duckduckgo.com/?q=mini+cnc+diy+with+arduino&t=ffab&atb=v193-1&ia=web
 https://www.instructables.com/id/Upgrade-Your-CNC/
-https://github.com/uerkal/PancakePrinter
+
 
 
 
@@ -47,6 +53,7 @@ grill qu'il a utilisé: www.homend.com.tr/grilliant-1402-elektrikli-izgara  Home
 
 
 3D Parts
+https://www.freecadweb.org/
 
     Base - A x 1
     Base - B x 1
