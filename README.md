@@ -1,19 +1,14 @@
 # PancakePrinter
-Projet de l'UrLab pour faire une imprimante à crêpe pour le PDS 2k20 et qu'on pourras continuer d'utiliser après
+Projet de l'UrLab pour faire une imprimante à crêpe
 
 Besoin de:
 tout ce qui est en contacte avec la pâte, doit être du plastique alimentaire
 pt mettre une résine alimentaire
 Pt aller voir des gens qui ont fait des imprimantes à chocolat
 
-Besoin de:
-Arduino Méga
-3/2 driver
-3/2 moteurs
-Alimentation
-
 OU:
 Creality Silent Mainboard Version 1.1.5 (miniGrim0 en a une)
+RaspberryPi
 Alimentation (on à ici sur la kossel)
 
 
@@ -28,7 +23,7 @@ https://www.amazon.fr/Roulement-billes-lineaire-interieur-caoutchouc/dp/B01FSDLP
 https://www.cdiscount.com/search/10/roulement+a+bille+lineaire+lm8uu.html#_his_
 ATTENTION au temps que ça pourrait prendre
 
-roullement a bille par marcel pour amazon prime
+roullement a bille OK
 chercher poêle pour mettre sur le réchaud
 
 LIENS:
