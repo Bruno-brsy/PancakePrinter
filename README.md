@@ -19,8 +19,10 @@ Atache pour la structure: à imprimer
 - [ ] 2 Courroies (possède: 100 cm et 80 cm)
 - [X] roulements à billes 8mm interne 15x25mm Linear à acheter (amazon prime) 15€ max pour une dizaine de roulements à billes linéaires
 [liste des roulements à billes linéaire 8mm](https://www.amazon.fr/s?k=roulement+a+bille+lineaire+LM8UU&s=price-asc-rank&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1582649879&ref=sr_st_price-asc-rank "amazon")
+
 [Roulement à billes lineaire - TOOGOO(R)](https://www.amazon.fr/Roulement-billes-lineaire-interieur-caoutchouc/dp/B01FSDLP02/ref=sr_1_11?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=roulement+a+bille+lineaire+LM8UU&qid=1582649889&sr=8-11 "amazon")
-https://www.cdiscount.com/search/10/roulement+a+bille+lineaire+lm8uu.html#_his_
+
+[Roulement à billes sur cdiscount](https://www.cdiscount.com/search/10/roulement+a+bille+lineaire+lm8uu.html#_his_ "cdiscount")
 ATTENTION au temps que ça pourrait prendre
 
 roulement à bille OK
